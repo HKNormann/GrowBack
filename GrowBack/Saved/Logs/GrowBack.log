@@ -853,3 +853,273 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.01-14.59.36:127][105]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2020.02.01-14.59.36:127][105]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2020.02.01-15.00.25:805][431]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.02.01-15.04.01:592][541]LogEditorViewport: Clicking Background
+[2020.02.01-15.04.03:587][778]LogEditorViewport: Clicking Background
+[2020.02.01-15.04.05:471][  0]LogEditorViewport: Clicking Background
+[2020.02.01-15.04.31:442][ 88]Cmd: TRANSACTION UNDO
+[2020.02.01-15.04.31:442][ 88]LogEditorTransaction: Undo Move Actors
+[2020.02.01-15.04.42:574][340]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.02.01-15.04.51:736][396]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.02.01-15.04.59:739][329]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2020.02.01-15.05.21:643][936]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.02.01-15.05.24:636][283]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2020.02.01-15.05.42:584][395]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2020.02.01-15.05.49:225][167]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.02.01-15.05.57:247][ 97]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.02.01-15.06.54:760][409]LogActorFactory: Actor Factory created Cylinder
+[2020.02.01-15.06.55:682][514]LogActorFactory: Actor Factory created Cylinder
+[2020.02.01-15.07.18:920][239]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder5)
+[2020.02.01-15.09.35:592][501]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2020.02.01-15.09.35:733][501]LogSavePackage: Moving '../../../../../../Users/Harri/Documents/Unreal Projects/GrowBack/GrowBack/Saved/ThirdPersonExampleMap_Auto5F51180154F9E40E6B3C49893CE772430.tmp' to '../../../../../../Users/Harri/Documents/Unreal Projects/GrowBack/GrowBack/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.umap'
+[2020.02.01-15.09.35:734][501]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.166
+[2020.02.01-15.09.35:734][501]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.166
+[2020.02.01-15.10.18:902][649]LogActorFactory: Actor Factory created Cylinder
+[2020.02.01-15.10.19:995][770]LogActorFactory: Actor Factory created Cylinder
+[2020.02.01-15.10.35:267][561]LogActorFactory: Actor Factory created Cylinder
+[2020.02.01-15.10.36:269][675]LogActorFactory: Actor Factory created Cylinder
+[2020.02.01-15.11.13:811][ 47]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.02.01-15.11.14:833][167]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder8)
+[2020.02.01-15.11.15:404][232]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder6)
+[2020.02.01-15.11.39:659][ 72]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.02.01-15.11.56:006][  1]Cmd: DELETE
+[2020.02.01-15.11.56:006][  1]Cmd: ACTOR DELETE
+[2020.02.01-15.11.56:009][  1]LogEditorActor: Deleted Actor: PointLight
+[2020.02.01-15.11.56:033][  1]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2020.02.01-15.11.56:036][  1]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.02.01-15.13.02:631][783]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.02.01-15.13.06:766][244]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2020.02.01-15.13.16:701][416]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.01-15.13.22:238][ 67]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.02.01-15.13.29:312][891]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2020.02.01-15.13.30:133][985]Cmd: DELETE
+[2020.02.01-15.13.30:133][985]Cmd: ACTOR DELETE
+[2020.02.01-15.13.30:136][985]LogEditorActor: Deleted Actor: SpotLight
+[2020.02.01-15.13.30:160][985]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2020.02.01-15.13.30:163][985]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.02.01-15.13.35:331][603]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2020.02.01-15.13.44:575][677]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2020.02.01-15.13.49:035][199]Cmd: DELETE
+[2020.02.01-15.13.49:035][199]Cmd: ACTOR DELETE
+[2020.02.01-15.13.49:038][199]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2020.02.01-15.13.49:060][199]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.02.01-15.13.49:063][199]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2020.02.01-15.19.35:644][723]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.02.01-15.19.35:787][723]LogSavePackage: Moving '../../../../../../Users/Harri/Documents/Unreal Projects/GrowBack/GrowBack/Saved/ThirdPersonExampleMap_Auto6B452BEB74D7F030B4300E2A7D4BE4045.tmp' to '../../../../../../Users/Harri/Documents/Unreal Projects/GrowBack/GrowBack/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto6.umap'
+[2020.02.01-15.19.35:789][723]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.167
+[2020.02.01-15.19.35:789][723]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.167
+[2020.02.01-15.25.00:998][705]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [C:/Users/Harri/Documents/Unreal Projects/GrowBack/GrowBack/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-15.25.00:998][705]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.01-15.25.00:998][705]LogConfig: Setting CVar [[r.ViewDistanceScale:0.8]]
+[2020.02.01-15.25.00:998][705]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [C:/Users/Harri/Documents/Unreal Projects/GrowBack/GrowBack/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-15.25.00:998][705]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.02.01-15.25.00:998][705]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [C:/Users/Harri/Documents/Unreal Projects/GrowBack/GrowBack/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-15.25.00:998][705]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.01-15.25.00:998][705]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.01-15.25.00:998][705]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2020.02.01-15.25.00:998][705]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2020.02.01-15.25.00:998][705]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.01-15.25.00:998][705]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2020.02.01-15.25.00:998][705]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.85]]
+[2020.02.01-15.25.00:998][705]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2020.02.01-15.25.00:998][705]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2020.02.01-15.25.00:998][705]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.01-15.25.00:998][705]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.01-15.25.00:998][705]LogConfig: Setting CVar [[r.AOQuality:1]]
+[2020.02.01-15.25.00:998][705]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.01-15.25.00:998][705]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:16]]
+[2020.02.01-15.25.00:998][705]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:64]]
+[2020.02.01-15.25.00:998][705]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.01-15.25.00:998][705]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.01-15.25.00:998][705]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.01-15.25.00:998][705]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [C:/Users/Harri/Documents/Unreal Projects/GrowBack/GrowBack/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-15.25.00:998][705]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2020.02.01-15.25.00:998][705]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2020.02.01-15.25.00:998][705]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.01-15.25.00:998][705]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.01-15.25.00:998][705]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2020.02.01-15.25.00:998][705]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.01-15.25.00:998][705]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.01-15.25.00:998][705]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.01-15.25.00:998][705]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.01-15.25.00:998][705]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.01-15.25.00:998][705]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.01-15.25.00:998][705]LogConfig: Setting CVar [[r.FastBlurThreshold:3]]
+[2020.02.01-15.25.00:998][705]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2020.02.01-15.25.00:999][705]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.01-15.25.00:999][705]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.01-15.25.00:999][705]LogConfig: Setting CVar [[r.Filter.SizeScale:0.8]]
+[2020.02.01-15.25.00:999][705]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.01-15.25.00:999][705]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2020.02.01-15.25.00:999][705]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2020.02.01-15.25.00:999][705]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.01-15.25.00:999][705]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.01-15.25.00:999][705]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.01-15.25.00:999][705]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2020.02.01-15.25.00:999][705]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:0      ; no bokeh simulation when scattering]]
+[2020.02.01-15.25.00:999][705]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.04        ; only a maximum of 4% of scattered bokeh]]
+[2020.02.01-15.25.00:999][705]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2020.02.01-15.25.00:999][705]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2020.02.01-15.25.00:999][705]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2020.02.01-15.25.00:999][705]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2020.02.01-15.25.00:999][705]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [C:/Users/Harri/Documents/Unreal Projects/GrowBack/GrowBack/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-15.25.00:999][705]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.01-15.25.00:999][705]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.01-15.25.00:999][705]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.01-15.25.00:999][705]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.01-15.25.00:999][705]LogConfig: Setting CVar [[r.MaxAnisotropy:4]]
+[2020.02.01-15.25.00:999][705]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.02.01-15.25.00:999][705]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2020.02.01-15.25.00:999][705]LogConfig: Setting CVar [[r.Streaming.PoolSize:800]]
+[2020.02.01-15.25.00:999][705]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.01-15.25.00:999][705]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [C:/Users/Harri/Documents/Unreal Projects/GrowBack/GrowBack/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-15.25.00:999][705]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2020.02.01-15.25.00:999][705]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.01-15.25.00:999][705]LogConfig: Setting CVar [[r.SSR.Quality:2]]
+[2020.02.01-15.25.00:999][705]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:1]]
+[2020.02.01-15.25.00:999][705]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2020.02.01-15.25.00:999][705]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2020.02.01-15.25.00:999][705]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.01-15.25.00:999][705]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.01-15.25.00:999][705]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.01-15.25.00:999][705]LogConfig: Setting CVar [[r.SSS.SampleSet:1]]
+[2020.02.01-15.25.00:999][705]LogConfig: Setting CVar [[r.SSS.Quality:-1]]
+[2020.02.01-15.25.00:999][705]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.01-15.25.00:999][705]LogConfig: Setting CVar [[r.SSGI.Quality:2]]
+[2020.02.01-15.25.00:999][705]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.5]]
+[2020.02.01-15.25.00:999][705]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2020.02.01-15.25.00:999][705]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.02.01-15.25.00:999][705]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.02.01-15.25.00:999][705]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.02.01-15.25.00:999][705]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.02.01-15.25.00:999][705]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.02.01-15.25.00:999][705]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.02.01-15.25.00:999][705]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.02.01-15.25.00:999][705]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.02.01-15.25.00:999][705]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.02.01-15.25.00:999][705]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.02.01-15.25.00:999][705]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.02.01-15.25.00:999][705]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [C:/Users/Harri/Documents/Unreal Projects/GrowBack/GrowBack/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-15.25.00:999][705]LogConfig: Setting CVar [[foliage.DensityScale:0.8]]
+[2020.02.01-15.25.00:999][705]LogConfig: Setting CVar [[grass.DensityScale:0.8]]
+[2020.02.01-15.25.00:999][705]LogConfig: Applying CVar settings from Section [ShadingQuality@2] File [C:/Users/Harri/Documents/Unreal Projects/GrowBack/GrowBack/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-15.25.00:999][705]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.02.01-15.25.00:999][705]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.02.01-15.25.00:999][705]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.02.01-15.25.01:010][707]LogRenderer: Reallocating scene render targets to support 1208x608 Format 9 NumSamples 1 (Frame:419845).
+[2020.02.01-15.25.01:036][707]LogContentStreaming: Texture pool size now 800 MB
+[2020.02.01-16.58.16:713][214]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2020.02.01-16.59.08:892][243]LogEditorViewport: Clicking Background
+[2020.02.01-16.59.28:808][565]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2020.02.01-16.59.41:462][ 42]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.02.01-16.59.52:304][280]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube17)
+[2020.02.01-16.59.55:933][705]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2020.02.01-17.00.03:753][602]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2020.02.01-17.00.05:315][781]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube17)
+[2020.02.01-17.00.08:816][192]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.02.01-17.00.12:641][633]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.02.01-17.01.00:215][207]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2020.02.01-17.02.13:925][  8]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2020.02.01-17.02.52:774][596]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.02.01-17.04.02:238][114]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2020.02.01-17.04.02:431][114]LogSavePackage: Moving '../../../../../../Users/Harri/Documents/Unreal Projects/GrowBack/GrowBack/Saved/ThirdPersonExampleMap_Auto7AC097A3F4AF45097B7AFA08E4C981247.tmp' to '../../../../../../Users/Harri/Documents/Unreal Projects/GrowBack/GrowBack/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto7.umap'
+[2020.02.01-17.04.02:433][114]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.225
+[2020.02.01-17.04.02:433][114]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.225
+[2020.02.01-17.05.20:142][564]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.02.01-17.33.09:845][747]Cmd: TRANSACTION UNDO
+[2020.02.01-17.33.09:845][747]LogEditorTransaction: Undo Move Actors
+[2020.02.01-17.33.10:214][757]Cmd: TRANSACTION UNDO
+[2020.02.01-17.33.10:214][757]LogEditorTransaction: Undo Move Actors
+[2020.02.01-17.33.10:797][811]Cmd: TRANSACTION UNDO
+[2020.02.01-17.33.10:797][811]LogEditorTransaction: Undo Move Actors
+[2020.02.01-17.33.58:467][418]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.02.01-17.36.17:129][847]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube11)
+[2020.02.01-17.36.38:245][292]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2020.02.01-17.36.58:526][704]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube19)
+[2020.02.01-17.37.16:137][792]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2020.02.01-17.37.21:987][481]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2020.02.01-17.39.04:438][559]Cmd: TRANSACTION UNDO
+[2020.02.01-17.39.04:438][559]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.01-17.39.06:043][704]Cmd: DELETE
+[2020.02.01-17.39.06:043][704]Cmd: ACTOR DELETE
+[2020.02.01-17.39.06:056][704]LogEditorActor: Deleted Actor: Brush
+[2020.02.01-17.39.06:056][704]LogEditorActor: Deleted Actor: Brush
+[2020.02.01-17.39.06:057][704]LogEditorActor: Deleted Actor: Brush
+[2020.02.01-17.39.06:086][704]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2020.02.01-17.39.06:103][704]LogEditorActor: Deleted 3 Actors (0.059 secs)
+[2020.02.01-17.39.25:613][ 42]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube10)
+[2020.02.01-17.40.02:033][322]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.02.01-17.40.16:714][ 63]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube17)
+[2020.02.01-17.40.22:455][740]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube17)
+[2020.02.01-17.40.49:208][897]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2020.02.01-17.40.56:349][740]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube19)
+[2020.02.01-17.41.00:717][254]Cmd: DELETE
+[2020.02.01-17.41.00:717][254]Cmd: ACTOR DELETE
+[2020.02.01-17.41.00:727][254]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.01-17.41.00:756][254]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2020.02.01-17.41.00:758][254]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2020.02.01-17.41.04:996][759]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube18)
+[2020.02.01-17.41.33:278][135]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube22)
+[2020.02.01-17.41.46:506][692]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.02.01-17.42.12:811][812]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.02.01-17.42.27:186][522]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2020.02.01-17.42.37:245][693]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2020.02.01-17.43.28:550][773]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube17)
+[2020.02.01-17.44.25:122][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2020.02.01-17.44.25:320][473]LogSavePackage: Moving '../../../../../../Users/Harri/Documents/Unreal Projects/GrowBack/GrowBack/Saved/ThirdPersonExampleMap_Auto8E41231C848B9185961B01EA29A618CB7.tmp' to '../../../../../../Users/Harri/Documents/Unreal Projects/GrowBack/GrowBack/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto8.umap'
+[2020.02.01-17.44.25:322][473]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.227
+[2020.02.01-17.44.25:322][473]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.227
+[2020.02.01-17.47.39:810][431]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube22)
+[2020.02.01-17.47.41:883][672]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube22)
+[2020.02.01-17.47.43:609][874]Cmd: TRANSACTION UNDO
+[2020.02.01-17.47.43:609][874]LogEditorTransaction: Undo Move Actors
+[2020.02.01-17.51.55:624][926]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube17)
+[2020.02.01-17.54.25:618][585]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2020.02.01-17.54.25:816][585]LogSavePackage: Moving '../../../../../../Users/Harri/Documents/Unreal Projects/GrowBack/GrowBack/Saved/ThirdPersonExampleMap_Auto913793C044E8852235EB667890F61D4F2.tmp' to '../../../../../../Users/Harri/Documents/Unreal Projects/GrowBack/GrowBack/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto9.umap'
+[2020.02.01-17.54.25:817][585]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.228
+[2020.02.01-17.54.25:817][585]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.228
+[2020.02.01-18.04.25:989][573]AssetReimport: New page: Outstanding source content changes 20:04:25
+[2020.02.01-18.04.25:991][573]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Harri/Documents/Unreal Projects/GrowBack/GrowBack/Content/Geometry/Girder.fbx)
+[2020.02.01-18.04.26:022][573]LogFbx: Loading FBX Scene from C:/Users/Harri/Documents/Unreal Projects/GrowBack/GrowBack/Content/Geometry/Girder.fbx
+[2020.02.01-18.04.26:031][573]LogFbx: FBX Scene Loaded Succesfully
+[2020.02.01-18.04.29:773][573]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.02.01-18.04.30:015][573]LogStaticMesh: Building static mesh Girder...
+[2020.02.01-18.04.30:024][573]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Girder.Girder
+[2020.02.01-18.04.30:103][574]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Girder" FILE="../../../../../../Users/Harri/Documents/Unreal Projects/GrowBack/GrowBack/Content/Geometry/Girder.uasset" SILENT=true
+[2020.02.01-18.04.30:119][574]LogSavePackage: Moving '../../../../../../Users/Harri/Documents/Unreal Projects/GrowBack/GrowBack/Saved/Girder87ACA15D497D31C57CAE29A64D826998.tmp' to '../../../../../../Users/Harri/Documents/Unreal Projects/GrowBack/GrowBack/Content/Geometry/Girder.uasset'
+[2020.02.01-18.04.30:178][575]AssetCheck: New page: Asset Save: Girder
+[2020.02.01-18.04.30:178][575]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Girder.Girder
+[2020.02.01-18.04.33:154][927]AssetReimport: Importing new asset /Game/Geometry/Girder.
+[2020.02.01-18.04.50:990][ 33]LogActorFactory: Actor Factory created Girder
+[2020.02.01-18.04.52:255][180]LogActorFactory: Actor Factory created Girder
+[2020.02.01-18.05.34:475][ 91]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube11)
+[2020.02.01-18.05.35:887][251]Cmd: DELETE
+[2020.02.01-18.05.35:887][251]Cmd: ACTOR DELETE
+[2020.02.01-18.05.35:897][251]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.01-18.05.35:924][251]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2020.02.01-18.05.35:925][251]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2020.02.01-18.05.36:453][314]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Girder)
+[2020.02.01-18.06.01:874][330]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube18)
+[2020.02.01-18.06.02:710][426]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Girder)
+[2020.02.01-18.06.51:173][149]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.02.01-18.06.51:364][149]LogSavePackage: Moving '../../../../../../Users/Harri/Documents/Unreal Projects/GrowBack/GrowBack/Saved/ThirdPersonExampleMap_Auto0341D95114B93A7BBECACBABED3C5E396.tmp' to '../../../../../../Users/Harri/Documents/Unreal Projects/GrowBack/GrowBack/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto0.umap'
+[2020.02.01-18.06.51:366][149]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.217
+[2020.02.01-18.06.51:366][149]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.217
+[2020.02.01-18.06.51:366][149]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/lambert2] ([1] browsable assets)...
+[2020.02.01-18.06.51:374][149]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Geometry/lambert2.lambert2]
+[2020.02.01-18.06.51:374][149]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/lambert2]
+[2020.02.01-18.06.51:387][149]LogSavePackage: Moving '../../../../../../Users/Harri/Documents/Unreal Projects/GrowBack/GrowBack/Saved/lambert2_Auto01F1308434A65E456358D028C36EAF336.tmp' to '../../../../../../Users/Harri/Documents/Unreal Projects/GrowBack/GrowBack/Saved/Autosaves/Game/Geometry/lambert2_Auto0.uasset'
+[2020.02.01-18.06.51:388][149]LogFileHelpers: Auto-saving content packages took 0.022
+[2020.02.01-18.06.56:982][799]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Girder)
+[2020.02.01-18.07.04:542][669]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube20)
+[2020.02.01-18.07.05:180][738]Cmd: DELETE
+[2020.02.01-18.07.05:180][738]Cmd: ACTOR DELETE
+[2020.02.01-18.07.05:189][738]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.01-18.07.05:216][738]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2020.02.01-18.07.05:217][738]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2020.02.01-18.07.07:780][ 36]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Girder)
+[2020.02.01-18.07.34:306][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2020.02.01-18.07.34:490][179]LogSavePackage: Moving '../../../../../../Users/Harri/Documents/Unreal Projects/GrowBack/GrowBack/Saved/ThirdPersonExampleMapD3727D3A4E1C1B2A25C42986F89EBA46.tmp' to '../../../../../../Users/Harri/Documents/Unreal Projects/GrowBack/GrowBack/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.02.01-18.07.34:614][179]LogSavePackage: Moving '../../../../../../Users/Harri/Documents/Unreal Projects/GrowBack/GrowBack/Saved/ThirdPersonExampleMap_BuiltDataC688A5E442415FB7953CF59F0B40594B.tmp' to '../../../../../../Users/Harri/Documents/Unreal Projects/GrowBack/GrowBack/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.02.01-18.07.34:626][179]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.01-18.07.34:626][179]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.02.01-18.07.34:626][179]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
